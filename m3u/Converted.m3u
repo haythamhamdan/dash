@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORT HD",❤❤❤❤❤ ARABIC BEINSPORT ❤❤❤❤❤
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="BEINSPORT HD",AR: beINSport 1
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="BEINSPORT HD",AR: beINSport 1
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/995.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="BEINSPORT HD",AR: beINSport 1 HD
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="BEINSPORT HD",AR: beINSport 1 HD
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/979.ts
 #EXTINF:0 tvg-id="beINSport2.fr" group-title="BEINSPORT HD",AR: beINSport 2
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/994.ts
@@ -32,7 +32,7 @@ http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/973.ts
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/988.ts
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORT HD",BEIN SPORT HD8
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/972.ts
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORT HD",AR: beINSport 9
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="BEINSPORT HD",AR: beINSport 9
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/987.ts
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORT HD",BEIN SPORT HD9
 http://portal2.linkm3upro.com:8080/live/dash1msport/RuDlFfRzK6/971.ts
