@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",❤❤❤❤❤ SERVER DMTN-IPTV ❤❤❤❤❤
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/11499.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS News HD
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/23691.ts
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SERVER DMTN-IPTV",beIN SPORTS HD
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/23690.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports1 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/47000.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports2 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46999.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports3 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46998.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports4 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46997.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports5 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46996.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",BeinSports6 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46995.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 7 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46994.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 8 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46993.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 9 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46992.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 10 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46991.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 11 EN (1080P)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46987.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 12 EN (1080P)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46986.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 13 EN (1080P
+
