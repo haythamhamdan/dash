@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD1 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/127.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD2 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/128.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD3 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/129.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD4 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/130.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD5 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/132.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD6 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/133.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD7 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/134.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD8 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/135.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport HD",Bein Sport HD9 1080i
+http://linux-app.tv:8080/live/haitham/ibrahim/186.ts
+
