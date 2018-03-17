@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",❤❤❤❤❤ SERVER DMTN-IPTV ❤❤❤❤❤
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/11499.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS News HD
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/23691.ts
+#EXTINF:0 tvg-id="BeINSports.es" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",BeINSports.es
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SERVER DMTN-IPTV",beIN SPORTS HD
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/23690.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 1 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/47000.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 2 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46999.ts
+#EXTINF:0 tvg-id="ext" group-title="SERVER DMTN-IPTV",beIN SPORTS HD 3 (1080i)
+http://servergates.net:8080/live/dash18/RxGvDVAmtq/46998.ts
+
+
